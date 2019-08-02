@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test" failures="0" tests="2" time="60.952" errors="0">
+  <properties/>
+  <testcase name="login_test" time="27.53" classname="com.testCases.TC_001_Login"/>
+  <testcase name="registration" time="20.211" classname="com.testCases.TC_001_Registraion"/>
+</testsuite>

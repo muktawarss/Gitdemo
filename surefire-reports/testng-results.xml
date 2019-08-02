@@ -1,0 +1,38 @@
+<testng-results>
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite">
+    <groups>
+    </groups>
+    <test name="Test">
+      <class name="com.testCases.TC_001_Registraion">
+        <test-method status="PASS" signature="setUP()" name="setUP" is-config="true" duration-ms="5805" started-at="2019-08-02T14:55:06Z" finished-at="2019-08-02T14:55:12Z">
+        </test-method>
+        <test-method status="PASS" signature="registration()" name="registration" duration-ms="20211" started-at="2019-08-02T14:55:12Z" finished-at="2019-08-02T14:55:32Z">
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="111" started-at="2019-08-02T14:55:32Z" finished-at="2019-08-02T14:55:32Z">
+        </test-method>
+      </class>
+      <class name="com.testCases.TC_001_Login">
+        <test-method status="PASS" signature="setUP()" name="setUP" is-config="true" duration-ms="7173" started-at="2019-08-02T14:54:31Z" finished-at="2019-08-02T14:54:38Z">
+        </test-method>
+        <test-method status="PASS" signature="login_test(java.lang.String, java.lang.String)" name="login_test" duration-ms="27530" started-at="2019-08-02T14:54:38Z" finished-at="2019-08-02T14:55:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sachin@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sada123]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="108" started-at="2019-08-02T14:55:06Z" finished-at="2019-08-02T14:55:06Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
